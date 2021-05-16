@@ -1,0 +1,14 @@
+*.o
+*.gch
+run.sh
+ft_mini_ls
+libft.a
+libft/libft.a
+ft_libft
+dir*
+d*
+test*
+my_ans
+true_ans
+a
+b
